@@ -1,0 +1,7 @@
+Package: com.flexhack.imgui
+Name: FlexHack
+Depends: mobilesubstrate
+Version: 0.24.2
+Architecture: iphoneos-arm
+Description: Free Cheat for SO2
+Author: propaganda
